@@ -1,0 +1,385 @@
+Apr 16, 2014 2:28:20 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 2:28:20 AM - NOTE : Processing [protected void setUp() throws java.lang.Exception, public void testStartRecording() , public void testUploadAllTrackPoints_success() , public void testStopRecording() , public void testCreateTrackPoint() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_onePoint() , public void testCreateWaypoint() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testCreateTrack() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadWaypoints_nullCursor() ]
+Apr 16, 2014 2:28:20 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 16, 2014 2:28:20 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 16, 2014 2:28:37 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 2:28:37 AM - NOTE : Processing [protected void setUp() throws java.lang.Exception, public void testCreateWaypoint() , public void testStopRecording() , public void testUploadWaypoints_nullCursor() , public void testUploadWaypoints_onePoint() , public void testUploadAllTrackPoints_success() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testCreateTrackPoint() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadLastMarkerFailed() , protected void setUp() throws java.lang.Exception, public void testCreateTrack() , protected void setUp() throws java.lang.Exception, public void testStartRecording() ]
+Apr 16, 2014 2:28:37 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 16, 2014 2:28:37 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:28:37 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:28:37 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:28:37 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:28:37 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:28:37 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:28:37 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 16, 2014 2:29:27 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 2:29:27 AM - NOTE : Processing [public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testUploadWaypoints_onePoint() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testCreateTrackPoint() , protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_nullCursor() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testStopRecording() , public void testStartRecording() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testCreateTrack() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_success() , public void testCreateWaypoint() ]
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:29:27 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:29:27 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:29:27 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:29:27 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:29:27 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:29:27 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:29:27 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:29:27 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.DataSource
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.TrackDataListener
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:29:27 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:29:27 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:29:27 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.util.StringUtils
+Apr 16, 2014 2:29:27 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 16, 2014 2:30:18 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 2:30:18 AM - NOTE : Processing [public void testUploadAllTrackPoints_success() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadWaypoints_nullCursor() , protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_onePoint() , protected void setUp() throws java.lang.Exception, public void testCreateWaypoint() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testCreateTrack() , protected void setUp() throws java.lang.Exception, public void testStopRecording() , public void testCreateTrackPoint() , protected void setUp() throws java.lang.Exception, public void testStartRecording() ]
+Apr 16, 2014 2:30:18 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:30:18 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:30:18 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:30:18 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:30:18 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:30:18 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:30:18 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:30:18 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:30:18 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:30:18 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:30:18 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:30:18 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:30:18 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:30:18 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 16, 2014 2:30:28 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 2:30:28 AM - NOTE : Processing [public void testUploadWaypoints_nullCursor() , protected void setUp() throws java.lang.Exception, public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadWaypoints_onePoint() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testStopRecording() , public void testUploadAllTrackPoints_success() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testCreateWaypoint() , public void testStartRecording() , public void testCreateTrack() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testCreateTrackPoint() ]
+Apr 16, 2014 2:30:28 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:30:28 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:30:28 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:30:28 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:30:28 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:30:28 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:30:28 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 16, 2014 2:33:54 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 2:33:54 AM - NOTE : Processing [public void testCreateTrack() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_success() , public void testCreateWaypoint() , public void testUploadWaypoints_onePoint() , protected void setUp() throws java.lang.Exception, public void testStartRecording() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testStopRecording() , public void testUploadWaypoints_nullCursor() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testCreateTrackPoint() ]
+Apr 16, 2014 2:33:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:33:54 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:33:54 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:33:54 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:33:54 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:33:54 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:33:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:33:54 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:33:54 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:33:54 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:33:54 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:33:54 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:33:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 16, 2014 2:36:23 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 2:36:23 AM - NOTE : Processing [protected void setUp() throws java.lang.Exception, public void testCreateTrackPoint() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_success() , public void testStopRecording() , public void testStartRecording() , public void testCreateTrack() , protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_onePoint() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testUploadWaypoints_nullCursor() , protected void setUp() throws java.lang.Exception, public void testCreateWaypoint() ]
+Apr 16, 2014 2:36:23 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+Apr 16, 2014 2:36:23 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.util.StringUtils
+Apr 16, 2014 2:36:23 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:36:23 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:36:23 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:36:23 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:36:23 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:36:23 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:36:23 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:36:23 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:36:23 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:36:23 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:36:23 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:36:23 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:36:23 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 16, 2014 2:40:29 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 2:40:29 AM - NOTE : Processing [public void testUploadWaypoints_onePoint() , public void testStartRecording() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadWaypoints_nullCursor() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testCreateTrack() , protected void setUp() throws java.lang.Exception, public void testStopRecording() , public void testUploadAllTrackPoints_success() , public void testCreateTrackPoint() , public void testCreateWaypoint() ]
+Apr 16, 2014 2:40:29 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:40:29 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:40:29 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:40:29 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:40:29 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:40:29 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:40:29 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 16, 2014 2:41:38 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 2:41:38 AM - NOTE : Processing [public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_success() , protected void setUp() throws java.lang.Exception, public void testCreateTrack() , public void testStopRecording() , protected void setUp() throws java.lang.Exception, public void testCreateTrackPoint() , public void testUploadWaypoints_nullCursor() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testCreateWaypoint() , public void testUploadWaypoints_onePoint() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testStartRecording() ]
+Apr 16, 2014 2:41:38 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:41:38 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:41:38 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:41:38 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:41:38 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:41:38 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:41:38 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 16, 2014 2:41:38 AM - ERROR : Could not find android.database.Cursor
+Apr 16, 2014 2:41:38 AM - NOTE : Known Classpath: 
+Apr 16, 2014 2:41:38 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 16, 2014 2:41:38 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 16, 2014 2:41:38 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 16, 2014 2:41:38 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 16, 2014 2:41:38 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 16, 2014 3:38:46 AM - NOTE : Start Processing Annotations
+Apr 16, 2014 3:38:46 AM - NOTE : Processing [public void testStopRecording() , public void testUploadAllTrackPoints_success() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testCreateWaypoint() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_onePoint() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testCreateTrackPoint() , public void testStartRecording() , protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_nullCursor() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testCreateTrack() ]
+Apr 16, 2014 3:38:46 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:36:15 AM - NOTE : Start Processing Annotations
+Apr 21, 2014 2:36:15 AM - NOTE : Processing [public void testUploadWaypoints_nullCursor() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadAllTrackPoints_success() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testCreateTrack() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testStartRecording() , protected void setUp() throws java.lang.Exception, public void testStopRecording() , public void testCreateTrackPoint() , protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_onePoint() , public void testCreateWaypoint() ]
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:36:15 AM - ERROR : Could not find android.database.Cursor
+Apr 21, 2014 2:36:15 AM - NOTE : Known Classpath: 
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.util.StringUtils
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.DataSource
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.TrackDataListener
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:36:15 AM - ERROR : Could not find android.database.Cursor
+Apr 21, 2014 2:36:15 AM - NOTE : Known Classpath: 
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:36:15 AM - ERROR : Could not find android.database.Cursor
+Apr 21, 2014 2:36:15 AM - NOTE : Known Classpath: 
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:36:15 AM - ERROR : Could not find android.database.Cursor
+Apr 21, 2014 2:36:15 AM - NOTE : Known Classpath: 
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:36:15 AM - ERROR : Could not find android.database.Cursor
+Apr 21, 2014 2:36:15 AM - NOTE : Known Classpath: 
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:36:15 AM - ERROR : Could not find android.database.Cursor
+Apr 21, 2014 2:36:15 AM - NOTE : Known Classpath: 
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:36:15 AM - ERROR : Could not find android.database.Cursor
+Apr 21, 2014 2:36:15 AM - NOTE : Known Classpath: 
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksTest/libs/AndroidMockGenerator.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracksLib/bin/mytrackslib.jar
+Apr 21, 2014 2:36:15 AM - NOTE : file:/home/mynguyen/workspace/Android/mytracks/MyTracks/bin/classes/
+Apr 21, 2014 2:36:15 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:55:51 AM - NOTE : Start Processing Annotations
+Apr 21, 2014 2:55:51 AM - NOTE : Processing [protected void setUp() throws java.lang.Exception, public void testStartRecording() , public void testUploadWaypoints_nullCursor() , public void testUploadAllTrackPoints_success() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testStopRecording() , protected void setUp() throws java.lang.Exception, public void testCreateTrackPoint() , public void testCreateTrack() , protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testCreateWaypoint() , protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_onePoint() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() ]
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.util.StringUtils
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.DataSource
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.TrackDataListener
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:51 AM - NOTE : Found 20 classes to mock
+Apr 21, 2014 2:55:51 AM - NOTE : Mocking class com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking class com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking class com.google.android.apps.mytracks.util.StringUtils
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking class com.google.android.apps.mytracks.content.DataSource
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.TrackDataListener
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:52 AM - NOTE : Found 6 mocked classes to save
+Apr 21, 2014 2:55:52 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateSubclass
+Apr 21, 2014 2:55:52 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateSubclass
+Apr 21, 2014 2:55:52 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateSubclass
+Apr 21, 2014 2:55:52 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateSubclass
+Apr 21, 2014 2:55:52 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateInterface
+Apr 21, 2014 2:55:52 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateInterface
+Apr 21, 2014 2:55:52 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateInterface
+Apr 21, 2014 2:55:52 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateInterface
+Apr 21, 2014 2:55:52 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateInterface
+Apr 21, 2014 2:55:52 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateInterface
+Apr 21, 2014 2:55:52 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateSubclass
+Apr 21, 2014 2:55:52 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateSubclass
+Apr 21, 2014 2:55:52 AM - NOTE : Finished Processing Mocks
+Apr 21, 2014 2:55:52 AM - NOTE : Start Processing Annotations
+Apr 21, 2014 2:55:52 AM - NOTE : Processing []
+Apr 21, 2014 2:55:52 AM - NOTE : Found 0 classes to mock
+Apr 21, 2014 2:55:52 AM - NOTE : Found 0 mocked classes to save
+Apr 21, 2014 2:55:52 AM - NOTE : Finished Processing Mocks
+Apr 21, 2014 2:55:56 AM - NOTE : Start Processing Annotations
+Apr 21, 2014 2:55:56 AM - NOTE : Processing [protected void setUp() throws java.lang.Exception, public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testCreateTrackPoint() , public void testStartRecording() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testCreateWaypoint() , public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testUploadAllTrackPoints_success() , protected void setUp() throws java.lang.Exception, public void testUploadWaypoints_onePoint() , public void testUploadWaypoints_nullCursor() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() , public void testCreateTrack() , public void testStopRecording() ]
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.util.StringUtils
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.DataSource
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.TrackDataListener
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:55:56 AM - NOTE : Found 20 classes to mock
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking class com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking class com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking class com.google.android.apps.mytracks.util.StringUtils
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking class com.google.android.apps.mytracks.content.DataSource
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.TrackDataListener
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:55:56 AM - NOTE : Mocking interface com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:55:56 AM - NOTE : Found 6 mocked classes to save
+Apr 21, 2014 2:55:56 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateSubclass
+Apr 21, 2014 2:55:56 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateSubclass
+Apr 21, 2014 2:55:56 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateSubclass
+Apr 21, 2014 2:55:56 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateSubclass
+Apr 21, 2014 2:55:56 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateInterface
+Apr 21, 2014 2:55:56 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateInterface
+Apr 21, 2014 2:55:56 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateInterface
+Apr 21, 2014 2:55:56 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateInterface
+Apr 21, 2014 2:55:56 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateInterface
+Apr 21, 2014 2:55:56 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateInterface
+Apr 21, 2014 2:55:56 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateSubclass
+Apr 21, 2014 2:55:56 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateSubclass
+Apr 21, 2014 2:55:56 AM - NOTE : Finished Processing Mocks
+Apr 21, 2014 2:55:56 AM - NOTE : Start Processing Annotations
+Apr 21, 2014 2:55:56 AM - NOTE : Processing []
+Apr 21, 2014 2:55:56 AM - NOTE : Found 0 classes to mock
+Apr 21, 2014 2:55:56 AM - NOTE : Found 0 mocked classes to save
+Apr 21, 2014 2:55:56 AM - NOTE : Finished Processing Mocks
+Apr 21, 2014 2:56:54 AM - NOTE : Start Processing Annotations
+Apr 21, 2014 2:56:54 AM - NOTE : Processing [public void testStopRecording() , public void testUploadWaypoints() throws org.xmlpull.v1.XmlPullParserException, public void testUploadAllTrackPoints_uploadFirstMarkerFailed() , public void testCreateWaypoint() , protected void setUp() throws java.lang.Exception, protected void setUp() throws java.lang.Exception, public void testUploadAllTrackPoints_success() , public void testUploadWaypoints_onePoint() , public void testStartRecording() , public void testUploadAllTrackPoints_uploadLastMarkerFailed() , protected void setUp() throws java.lang.Exception, public void testCreateTrackPoint() , protected void setUp() throws java.lang.Exception, public void testCreateTrack() , public void testUploadWaypoints_nullCursor() , public void testUploadAllTrackPoints_prepareAndUploadPointsFailed() ]
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.util.StringUtils
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.DataSource
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.TrackDataListener
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Adding Class to Mocking List: android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Found 20 classes to mock
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking class com.google.android.apps.mytracks.io.maps.SendMapsActivity
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking class com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTask
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking class com.google.android.apps.mytracks.util.StringUtils
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface com.google.android.apps.mytracks.services.ITrackRecordingService
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking class com.google.android.apps.mytracks.content.DataSource
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.TrackDataListener
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface com.google.android.apps.mytracks.content.MyTracksProviderUtils
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Mocking interface android.database.Cursor
+Apr 21, 2014 2:56:54 AM - NOTE : Found 6 mocked classes to save
+Apr 21, 2014 2:56:54 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateSubclass
+Apr 21, 2014 2:56:54 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateSubclass
+Apr 21, 2014 2:56:54 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateSubclass
+Apr 21, 2014 2:56:54 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateSubclass
+Apr 21, 2014 2:56:54 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateInterface
+Apr 21, 2014 2:56:54 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.services.tasks.AnnouncementPeriodicTaskDelegateInterface
+Apr 21, 2014 2:56:54 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateInterface
+Apr 21, 2014 2:56:54 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.io.maps.SendMapsActivityDelegateInterface
+Apr 21, 2014 2:56:54 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateInterface
+Apr 21, 2014 2:56:54 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateInterface
+Apr 21, 2014 2:56:54 AM - NOTE : Saving genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateSubclass
+Apr 21, 2014 2:56:54 AM - NOTE : Saving via Eclipse genmocks.com.google.android.apps.mytracks.content.DataSourceDelegateSubclass
+Apr 21, 2014 2:56:54 AM - NOTE : Finished Processing Mocks
+Apr 21, 2014 2:56:54 AM - NOTE : Start Processing Annotations
+Apr 21, 2014 2:56:54 AM - NOTE : Processing []
+Apr 21, 2014 2:56:54 AM - NOTE : Found 0 classes to mock
+Apr 21, 2014 2:56:54 AM - NOTE : Found 0 mocked classes to save
+Apr 21, 2014 2:56:54 AM - NOTE : Finished Processing Mocks
