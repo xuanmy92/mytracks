@@ -92,7 +92,7 @@ import java.util.Locale;
  * 
  * @author Leif Hendrik Wilden
  */
-/* Test commit git */
+
 public class TrackListActivity extends AbstractSendToGoogleActivity
     implements EulaCaller, FileTypeCaller, PlayMultipleCaller, ChooseAccountCaller, ConfirmSyncCaller {
 
